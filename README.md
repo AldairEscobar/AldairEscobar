@@ -40,10 +40,3 @@ Soy estudiante de último semestre de Ingeniería en Sistemas Computacionales en
 * **Sistema de Punto de Venta:** Módulos de inventario y personal estructurados bajo arquitectura por capas, conectando el frontend con persistencia de datos relacional (HTML, CSS, JS, MySQL).
 
 ---
-
-### Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=tokyonight" width="48%" />
-</div>
