@@ -12,6 +12,7 @@ Soy estudiante de último semestre de Ingeniería en Sistemas Computacionales en
 * 💼 **Buscando:** Oportunidades como Becario / Intern en Desarrollo de Software, Backend o Datos.
 * 🚀 **Intereses:** Automatización de procesos, arquitecturas por capas y desarrollo asistido por IA.
 * 📫 **Contacto:** escobarsegurabrandonaldair@gmail.com
+* 🤝 **Conecta conmigo:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-aldar-escobar-segura-2526b1218/)
 
 ---
 
