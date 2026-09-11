@@ -1,3 +1,6 @@
+<div align="center">
+  <img width="100%" alt="banner" src="https://github.com/user-attachments/assets/8114a2e1-2e77-4d63-b92a-04716bb95764" />
+</div>
 # ¡Hola! Soy Brandon Aldair 👋
 
 ### 👨‍💻 Futuro Ingeniero en Sistemas Computacionales | Apasionado por el Backend y la Automatización
